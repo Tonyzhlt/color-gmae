@@ -1,1 +1,1 @@
-# color-gmae
+# color-game
